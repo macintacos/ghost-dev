@@ -1,0 +1,3 @@
+[submodule "versions/2.12.0/content/themes"]
+	path = versions/2.12.0/content/themes
+	url = https://macintacos@github.com/macintacos/themes.git
