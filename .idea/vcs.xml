@@ -5,8 +5,5 @@
     <mapping directory="$PROJECT_DIR$/content/themes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/content/themes/attila" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/content/themes/casper" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/versions/2.12.0/content/themes" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/versions/2.12.0/content/themes/attila" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/versions/2.12.0/content/themes/casper" vcs="Git" />
   </component>
 </project>
